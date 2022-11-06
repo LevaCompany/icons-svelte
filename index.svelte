@@ -1,7 +1,7 @@
 <script>
   import {config} from "@LevaCompany/icons-core"
 
-  import "@style.css"
+  import "style.css"
   import "style.less"
   import "@LevaCompany/icons-svelte/style.css"
   import "@LevaCompany/icons-svelte/style.less"
